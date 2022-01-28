@@ -1,10 +1,6 @@
 # Cryptocurrency Tracker
 
-<video width="800" height="400" controls>
-  <source src="https://user-images.githubusercontent.com/53157290/151508144-526ed49e-7cef-4e0d-8227-f6ea6e09026a.mov
-" type="video/mp4">
- Your browser does not support the video tag.
-</video>
+<a href="https://user-images.githubusercontent.com/53157290/151508144-526ed49e-7cef-4e0d-8227-f6ea6e09026a.mov" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
 
 # Description
 
