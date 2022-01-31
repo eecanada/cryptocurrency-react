@@ -4,7 +4,7 @@
 
 # Description
 
-- This purpose of this React.Js application was to practice the fundamentals of React. This application used React Hooks, Axios for fetching the API data, filtering, and event handlers.
+- This purpose of this React.js application was to practice the fundamentals of React. This application used React Hooks, axios for fetching the API data, filtering, and event handlers.
 
 # Technologies Used
 
@@ -13,6 +13,3 @@
 - HTML5
 - React.js
 
-# Getting Started
-
-[Click to view page](#)
